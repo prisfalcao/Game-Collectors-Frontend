@@ -30,6 +30,12 @@ Antes de iniciar, é necessário ter a [Game Collection API](https://github.com/
       cd Game-Collectors-Frontend
 3. Abra o arquivo index.html no navegador. Ele se conectará automaticamente à API rodando em http://127.0.0.1:5000.
 
+### 🖼️ Banner:
+O banner do projeto foi criado pela artista Joice Dantas, @hjemsoke no Instagram.
+A imagem está armazenada localmente na pasta `images` do projeto.
+
+Agradeço à artista por sua contribuição criativa, que tornou o visual do projeto único e especial.
+
 ### 🤝 Contribuindo: 
 Contribuições são bem-vindas! Para relatar bugs ou sugerir melhorias, por favor, abra uma issue no repositório.
 
@@ -65,6 +71,12 @@ Before starting, ensure the [Game Collection API](https://github.com/prisfalcao/
    ```bash
       cd Game-Collectors-Frontend
 3. Open the index.html file in your browser. It will automatically connect to the API running at http://127.0.0.1:5000.
+
+### 🖼️ Banner:
+The project banner was created by the artist Joice Dantas, @hjemsoke at Instagram.
+The image is stored locally in the project's images folder.
+
+I thank the artist for her creative contribution, which made the project's visual design unique and special.
 
 ### 🤝 Contributing: 
 Contributions are welcome! To report bugs or suggest improvements, please open an issue in the repository.
