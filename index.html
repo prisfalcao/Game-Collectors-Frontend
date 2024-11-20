@@ -8,8 +8,12 @@
         <script src="script.js" defer></script>
     </head>
     <body>
-        <h1>My Game Collection</h1>
-        <section>
+        <header>
+            <div class="banner">
+                <img src="./images/Banner1.jpg" alt="Banner image My Game Collection title">
+            </div>
+        </header>
+        <section class="content">
             <h2>Add a new game:</h2>
             <form id="add-game-form">
                 <input type="text" id="name" name="name" placeholder="Game Name" required>
@@ -20,8 +24,8 @@
                 <button type="submit">Add Game</button>
             </form>
         </section>
-        <section>
-            <h2>My Game Collection:</h2>
+        <section class="content">
+            <h2>Games in the Collection:</h2>
             <ul id="game-list"></ul>
         </section>
     </body>
